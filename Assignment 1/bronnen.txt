@@ -1,5 +1,5 @@
-bronnen afbeeldingen: 
-* https://www.kisspng.com/
+bronnen icoontjes
+* flaticon
 
 bron inspiratie: 
 *  http://bl.ocks.org/nbremer/864b11eb83aac3a1f6a2
