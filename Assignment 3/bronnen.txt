@@ -1,0 +1,5 @@
+logo: https://upload.wikimedia.org/wikipedia/commons/2/23/Pok%C3%A9mon_GO_logo.svg
+legende: https://www.google.be/search?q=pokemon+types&tbm=isch&source=iu&ictx=1&fir=YmwShnKezmjNHM%253A%252CsOTOHqrY2kwPbM%252C_&usg=AI4_-kRn99SxirUjcgnCzYnK3QRQ2HuaPg&sa=X&ved=2ahUKEwijkaTcgPfeAhXPaVAKHYOOAu8Q9QEwA3oECAQQBA#imgrc=YmwShnKezmjNHM:
+achtergrond: https://i.imgur.com/XnJEGOQ.jpg
+pokeball: https://www.svgrepo.com/svg/276264/pokeball-pokemon
+data: https://data.world/ljvmiranda921/pokemon-go-dataset
