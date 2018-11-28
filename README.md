@@ -1,5 +1,9 @@
-Dit is de repository voor mijn opdrachten van data visualisatie. Voor assignment 1 heb ik gekozen om een Chord diagram te maken.
+Dit is de repository voor mijn opdrachten van data visualisatie. 
+
+* Voor assignment 1 heb ik gekozen om een Chord diagram te maken.
 Ik heb inspiratie opgedaan uit dit voorbeeld: http://bl.ocks.org/nbremer/864b11eb83aac3a1f6a2 . In mijn chord diagram wordt er weergegeven
-welke superhelden in dezelfde film voorkomen. De lijndikte duidt aan in hoeveel films ze samen voorkomen. In het Chord diagram van mijn inpsiratiebron
-is de informatie niet up-to-date. Ik heb deze informatie geüpdated. Hiervoor heb ik een tabel in Excel gemaakt. Vervolgens ben ik zelf beginnen
-tekenen in Illustrator. Als de lijnen getekend waren, heb ik nog een afbeelding toegevoegd zodat het duidelijker is over welke superheld het gaat. 
+welke superhelden in dezelfde film voorkomen. De lijndikte duidt aan in hoeveel films ze samen voorkomen. In het Chord diagram van mijn inpsiratiebron is de informatie niet up-to-date. Ik heb deze informatie geüpdated. Hiervoor heb ik een tabel in Excel gemaakt. Vervolgens ben ik zelf beginnentekenen in Illustrator. Als de lijnen getekend waren, heb ik nog een afbeelding toegevoegd zodat het duidelijker is over welke superheld het gaat. 
+
+* Voor assignment 2 heb ik gekozen om een fysieke multiple area chart te maken. Hiervoor heb ik inspiratie opgedaan uit dit voorbeeld: http://dataphys.org/list/display-of-ice-data/ . Mijn fysieke multiple area chart stelt het toerisme voor in verschillende landen. De verschillende gekleurde planken stellen de landen voor. Deze kan je naast elkaar leggen om te vergelijken, anders sorteren, etc. Dit maakt het interactief. De achterste plank geeft de y-as terug. Op de "vloerplank" staat er een legende ter verduidelijking.
+
+* Voor assignment 3 heb ik een node-based visualisatie gemaakt. Deze visualisatie geeft weer hoe sterk de Pokémons uit generatie 1 zijn in Pokémon go. Het kleur van de balk representeert het type van de Pokémon. De lengte van de balk geeft weer hoe sterk de Pokémon is. Iedere balk heeft een pokéball. De grootte van deze pokéball duidt aan hoe gemakkelijk de Pokémon te vangen is (hoe groter, hoe gemakkelijker te vangen). De afstand t.o.v. de tekst geeft weer hoe groot de kans is dat de Pokémon vlucht (hoe verder van de tekst, hoe minder snel de Pokémon zal vluchten in het spel). In Illustrator heb ik bij de grafiek een klein tekstje geplaatst, een achtergrond en een legende ter verduidelijking. 
