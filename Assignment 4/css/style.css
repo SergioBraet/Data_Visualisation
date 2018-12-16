@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  /*Source: https://dsocdn.akamaized.net/Assets/Images_Upload/2013/08/12/ee18cbc4-032b-11e3-8d69-5c94adfa4f37_web_scale_0.0609756_0.0609756__.JPG*/
+  background-image: url("../img/back.jpg");
+  background-size: cover;
+}
+
+svg {
+  margin-top: 1%;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-left: 2%;
+  border-radius: 5px;
+  border: 3px solid #CCAC00;
+  padding-right: 3%;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  color: #CCAC00;
+  text-align: center;
+}
